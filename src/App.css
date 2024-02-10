@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,28 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* body{
+  background-color: indigo;
+  font-family: 'Courier New', Courier, monospace;
 }
+h2{
+  text-align: center;
+}
+.SignUp-form{
+  max-width: 450px;
+  border-radius: 20px;
+  margin: auto;
+  background-color: black;
+  box-sizing: border-box;
+  padding: 40px;
+  color: #fff;
+  margin-top: 100px;
+}
+input[type=text],input[type=password]{
+  width: 100%;
+  box-sizing: border-box;
+  background-color: black;
+  outline: none;
+  border-bottom: 1px solid gray;
+} */
